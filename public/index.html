@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Shop Assistant — Demo</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="page">
+  <h1>AI Shop Assistant — Demo Storefront</h1>
+  <p class="sub">Ask for what you need, like: "I need a fridge under 200 watts" or "something for acne-prone skin".</p>
+
+  <div class="chat-widget" id="chatWidget">
+    <div class="chat-header">💬 Shop Assistant</div>
+    <div class="chat-body" id="chatBody">
+      <div class="msg bot">Hi! What are you shopping for today?</div>
+    </div>
+    <div class="chat-input-row">
+      <input type="text" id="chatInput" placeholder="Type your question..." autocomplete="off">
+      <button id="sendBtn">Send</button>
+    </div>
+  </div>
+</div>
+
+<script src="chat.js"></script>
+</body>
+</html>

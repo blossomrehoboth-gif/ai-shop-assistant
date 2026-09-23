@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Compact Mini Fridge (60W)",
+    "price": 89.99,
+    "category": "Appliances",
+    "watts": 60,
+    "description": "Small 4L personal fridge, great for skincare, drinks, or a dorm room. Low power draw.",
+    "colors": ["Black", "White"],
+    "stock": 14,
+    "image": "https://via.placeholder.com/200?text=Mini+Fridge+60W"
+  },
+  {
+    "id": "2",
+    "name": "Standard Fridge (150W)",
+    "price": 249.99,
+    "category": "Appliances",
+    "watts": 150,
+    "description": "Mid-size 120L fridge, ideal for a small kitchen or apartment. Efficient compressor.",
+    "colors": ["Silver", "Black"],
+    "stock": 8,
+    "image": "https://via.placeholder.com/200?text=Fridge+150W"
+  },
+  {
+    "id": "3",
+    "name": "Large Family Fridge (500W)",
+    "price": 599.99,
+    "category": "Appliances",
+    "watts": 500,
+    "description": "Full-size 400L double-door fridge for a family kitchen. Higher power draw.",
+    "colors": ["Stainless Steel"],
+    "stock": 3,
+    "image": "https://via.placeholder.com/200?text=Fridge+500W"
+  },
+  {
+    "id": "4",
+    "name": "Anti-Acne Face Cream",
+    "price": 19.99,
+    "category": "Skincare",
+    "description": "Gentle cream formulated for acne-prone and sensitive skin. Oil-free.",
+    "colors": [],
+    "stock": 40,
+    "image": "https://via.placeholder.com/200?text=Face+Cream"
+  },
+  {
+    "id": "5",
+    "name": "Hydrating Night Cream",
+    "price": 24.99,
+    "category": "Skincare",
+    "description": "Rich moisturizing cream for dry or sensitive skin, fragrance-free.",
+    "colors": [],
+    "stock": 25,
+    "image": "https://via.placeholder.com/200?text=Night+Cream"
+  },
+  {
+    "id": "6",
+    "name": "Wireless Bluetooth Earbuds",
+    "price": 34.99,
+    "category": "Electronics",
+    "description": "Compact earbuds with 20-hour battery life and charging case.",
+    "colors": ["Black", "White", "Blue"],
+    "stock": 60,
+    "image": "https://via.placeholder.com/200?text=Earbuds"
+  }
+]
